@@ -4,7 +4,7 @@ In this analysis I will be looking at the dataset _[Climate Change: Earth Surfac
 
 *Note*: This analysis does not include the 95% confidence interval for temperatures.
 
-This notebook is best viewed with [Jupyter nbviewer](). The *Contents* links will not work on Github.
+This notebook is best viewed with [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kylepollina/Surface_Temperature_Analysis/blob/master/Earth%20Surface%20Temperature%20Analysis.ipynb). The *Contents* links will not work on Github.
 
 ##### Links
 - Dataset: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
