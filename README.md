@@ -8,6 +8,6 @@ This notebook is best viewed with [Jupyter nbviewer](https://nbviewer.jupyter.or
 
 ##### Links
 - Dataset: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
-- Notebook: [Jupyter nbviewer](https://nbviewer.jupyter.org/github/circulEarth/SurfaceTemperatures/blob/master/Earth%20Surface%20Temperature%20Analysis.ipynb)
+- Notebook: [Jupyter nbviewer](https://nbviewer.jupyter.org/github/kylepollina/Surface_Temperature_Analysis/blob/master/Earth%20Surface%20Temperature%20Analysis.ipynb)
 - Source: https://github.com/circulEarth/SurfaceTemperatures
 - Author: https://github.com/kylepollina
